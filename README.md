@@ -22,8 +22,8 @@
 
 [Repository](https://github.com/seaneastin/Vapor-Space)
 
-[Itch](team-elec.itch.io/vapor-space)
+[Itch](https://team-elec.itch.io/vapor-space)
 
 ## Torn
 
-[itch](https://palkia6150.itch.io/)
+[itch](https://team-light.itch.io/torn)
