@@ -38,6 +38,6 @@ Arcade-style shoot ‘em up in a vapor wave setting.
 ## Torn
 Grapple around floating islands to find crystals to stop the islands from  being torn apart
 
-<img src=Torn.png width="333">
+<img src="Torn.png" width="333">
 
 [itch](https://team-light.itch.io/torn)
