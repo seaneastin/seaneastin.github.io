@@ -11,7 +11,7 @@ Multiplayer tank combat game
 
 ## Pong
 
-<img src="Pong.png" width="333">
+<img src="Pong.PNG" width="333">
 
 [Repository](https://github.com/seaneastin/Pong)
 
@@ -20,7 +20,7 @@ Multiplayer tank combat game
 ## Pinball
 Pinball game that demonstrates physics.
 
-<img src="Pinball.png" width="333">
+<img src="Pinball.PNG" width="333">
 
 [Repository](https://github.com/seaneastin/Pinball)
 
@@ -29,7 +29,7 @@ Pinball game that demonstrates physics.
 ## Vapor Space
 Arcade-style shoot ‘em up in a vapor wave setting.
 
-<img src="Vapor Space.png" width="333">
+<img src="Vapor Space.PNG" width="333">
 
 [Repository](https://github.com/seaneastin/Vapor-Space)
 
