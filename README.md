@@ -10,7 +10,7 @@ Multiplayer tank combat game
 [Latest Release](https://github.com/seaneastin/Two-player-tank-game/releases)
 
 ## Pong
-
+features an AI controlled opponent and works on multiple devices
 <img src="Pong.PNG" width="333">
 
 [Repository](https://github.com/seaneastin/Pong)
